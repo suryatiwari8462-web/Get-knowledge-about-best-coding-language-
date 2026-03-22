@@ -9,9 +9,7 @@ Python is a programming language that opens more doors than any other. The more 
 Software Engineer, Software Developer, Machine Learning Engineer, AI Engineer, DevOps Engineer, Full Stack Developer, Data Scientist, Project Manager, Systems Administrator, Security Engineer, Tester – the opportunities that involve Python are as varied as they are exciting.
 And there are many of them.
 
-
-
-
+1. The CPython Object Model (The PyObject)
 Part I: The Foundation — PyObject and PyVarObject
 At the C level, every Python object is a variable-sized structure.
 However, they all start with a standard header.
